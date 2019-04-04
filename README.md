@@ -6,3 +6,4 @@ Office Automation by Using Pythonf (For Excel, Word, PPT and PDF .....)
 #### Example.4.Merge_PDFs (实例4：提取不同PDF文档中需要的页面并合并为新的PDF文件) -- 2019.3.28
 #### Example.5.Invitation_word_automation(实例5：用Python操作Word批量生成邀请函) -- 2019.4.1
 #### Example.6.Set_password_for_PDFs(实例6：用Python给PDF批量加密) -- 2019.4.2
+#### Example.7.Contract_automation_word(实例7：用Python操作Word批量生成合同) -- 2019.4.4
