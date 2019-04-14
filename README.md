@@ -10,3 +10,4 @@ Office Automation by Using Python (For Excel, Word, PPT and PDF .....)
 #### Example.7.Contract_automation_word(实例7：用Python操作Word批量生成合同) -- 2019.4.4
 #### Example.8.Decode_the_password_for_PDFs(实例8：暴力破解PDF密码) -- 2019.4.10
 #### Example.9.Shippment_list_automation(实例9：用Python自动生成Excel档每日出货清单) -- 2019.4.11
+#### Example.10.Get the right purchase request number by regular expression(实例10：用Python正则表达式从不规则的备注栏获得采购申请单号) -- 2019.4.14
