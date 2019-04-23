@@ -13,3 +13,4 @@ Office Automation by Using Python (For Excel, Word, PPT and PDF .....)
 #### Example.10.Get the right purchase request number by regular expression(实例10：用Python正则表达式从不规则的备注栏获得采购申请单号) -- 2019.4.14
 #### Example.11.Add_image_in_Excel_sheets(实例11:用Python给Excel所有工作表添加图片) -- 2019.4.16
 #### Example.12.Change_Excel_sheet_names(实例12:用Python批量修改Excel工作表名称) -- 2019.4.19
+#### Example.13.Promise date and receiving date of purchased materials(实例13:用Python批量查询采购物料交期及实际收货日期) -- 2019.4.23
