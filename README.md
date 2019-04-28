@@ -14,3 +14,4 @@ Office Automation by Using Python (For Excel, Word, PPT and PDF .....)
 #### Example.11.Add_image_in_Excel_sheets(实例11:用Python给Excel所有工作表添加图片) -- 2019.4.16
 #### Example.12.Change_Excel_sheet_names(实例12:用Python批量修改Excel工作表名称) -- 2019.4.19
 #### Example.13.Promise date and receiving date of purchased materials(实例13:用Python批量查询采购物料交期及实际收货日期) -- 2019.4.23
+#### Example.14.Replace_specific_words_in_word(实例14:用Python批量替换多个Word文件中的指定文字) -- 2019.4.28
