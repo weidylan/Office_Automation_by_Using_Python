@@ -16,3 +16,4 @@ Office Automation by Using Python (For Excel, Word, PPT and PDF .....)
 #### Example.13.Promise date and receiving date of purchased materials(实例13:用Python批量查询采购物料交期及实际收货日期) -- 2019.4.23
 #### Example.14.Replace_specific_words_in_word(实例14:用Python批量替换多个Word文件中的指定文字) -- 2019.4.28
 #### Example.15.Convert_doc_to_docx(实例15:用Python批量转换doc文件为docx文件) -- 2019.4.29
+#### Example.16.Material_Pick_Slip_Report_Automation(用Python自动生成Excel档每日领料单) -- 2020.5.2
