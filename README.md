@@ -17,3 +17,5 @@ Office Automation by Using Python (For Excel, Word, PPT and PDF .....)
 #### Example.14.Replace_specific_words_in_word(实例14:用Python批量替换多个Word文件中的指定文字) -- 2019.4.28
 #### Example.15.Convert_doc_to_docx(实例15:用Python批量转换doc文件为docx文件) -- 2019.4.29
 #### Example.16.Material_Pick_Slip_Report_Automation(用Python自动生成Excel档每日领料单) -- 2020.5.2
+#### Example.17.Material_requisition_Report_Automation(自动生成Excel档每日计划外出库单) -- 2020.5.5
+#### Example.18.Split words in Excel（实例18_拆分Excel单元格中的单词）-- 2020.5.6
